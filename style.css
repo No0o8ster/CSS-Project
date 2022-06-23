@@ -1,0 +1,154 @@
+html{
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding-bottom: 100px;
+}
+
+.tophead{
+    font-weight: bolder;
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    list-style: none;
+    margin-right: 120px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 5px;
+}
+
+.logo{
+    margin-top: 0px;
+    margin-left: 120px;
+    color: white;
+}
+
+.toptext{
+    width: 370px;
+    margin-left: 120px;
+}
+
+.htop{
+    display: flex;
+    flex-direction: row;
+}
+
+.topp{
+    color: #e5e7eb;
+}
+
+.button{
+    color: #f9faf8;
+    text-align: center;
+    margin-top: 17px;
+   background-color: #3882f6;
+   border: 0px;
+   width: 95px;
+   height: 40px;
+   border-radius: 12px;
+}
+
+.bheader{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.image1{
+    margin-left: 120px;
+}
+
+.hm{
+    color: #1f2937;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+.m img{
+    display: block;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #3882f6;
+    border-width: 5px;
+}
+
+p{
+    width: 200px;
+}
+
+.grey{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: large;
+    background-color: #e5e7eb;
+    font-style: italic;
+}
+
+.blue{
+    display: block;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.call{
+    background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 850px;
+    margin-left: 305px;
+    padding: 45px;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.next{
+    color: #f9faf8;
+}
+
+.butt{
+    width: 120px;
+    height: 35px;
+    border-color: #f9faf8;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 5px;
+    border-style: solid;
+    font-weight: bold;
+}
+
+.footer{
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #1f2937;
+    padding: 35px;
+}
